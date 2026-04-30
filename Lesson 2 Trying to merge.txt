@@ -1,0 +1,1 @@
+If your desktop doesn't show any icons, right-click (or press and hold on a touch device) on the desktop and select View. Ensure that Show desktop icons is checked. If not, select it.
